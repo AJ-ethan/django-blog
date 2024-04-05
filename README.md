@@ -18,11 +18,11 @@
 
 ### DETAILS AND API DESCRIPTIONS ###
 
--- PROJECT CONTAIN TWO APP 
-    1 - userProfile - for authentication and profile 
-    2-  blogApp - contains Posts and Comments model 
+    -- PROJECT CONTAIN TWO APP 
+        1 - userProfile - for authentication and profile 
+        2-  blogApp - contains Posts and Comments model 
 
--- Authentications is done using jwt token based authentications
+    -- Authentications is done using jwt token based authentications
 
 ## APP1 - userProfile api's
 
@@ -67,5 +67,5 @@
 
 ### FOR TESTING THE CURL IS PROVIDED IN "test_curl.txt" ###
 
-## OR USER CAN DIRECTLY IMPORT DJANGO-BLOG APP.postman_collection.json in Postman
+### OR USER CAN DIRECTLY IMPORT DJANGO-BLOG APP.postman_collection.json in Postman ###
 
